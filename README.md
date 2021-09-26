@@ -12,3 +12,6 @@ To run my code, navigate into a specific code snapshot folder via the cd command
 Then run npm install to install all required dependencies (this will create a /node_modules folder).
 
 Then Run npm start to start the server.
+
+![Expense Tracker](https://user-images.githubusercontent.com/72998655/134800020-614fd646-a556-4d9b-b0f5-50f187b4accc.png)
+
